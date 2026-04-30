@@ -1,16 +1,37 @@
 # Communicate using Markdown
 
-<img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
+## This is My HEADER
 
-Hey toffysoyege!
+### Imgs 
 
-Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+![Wet abstract sphere](https://img.magnific.com/free-photo/wet-sphere-reflective-water-abstract-beauty-generated-by-ai_188544-19616.jpg?semt=ais_hybrid&w=740&q=80)
 
-Remember, it's self-paced so feel free to take a break! ☕️
+![Gray Matter](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi-1mprtxlRUJwf3D2VOuj0zmzvdbK-Kf2Gg&s) 
 
-[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/toffysoyege/skills-communicate-using-markdown/issues/1)
+### Code 
 
----
+```javascript
+const x = 5;
+var sum = 100 / x;
+```
 
-&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+```python
+x = 5
+y = x
+z = x + y
+print(z - x)
+```
 
+### List and Table
+
+- Tools
+  - Money
+  - Assets
+- Leverage
+  - Stocks
+  - Crypto
+
+ 
+  Money|Assets
+    -|-
+  Crypto|Stocks
